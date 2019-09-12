@@ -1,0 +1,21 @@
+ul.sub-menu{
+    top: 40px;
+    height: auto;
+    display:block;
+    position: absolute;
+    background-color:#fff; 
+    left: 0;
+    width: 100%;
+    padding-left: 15px;
+}
+
+.item-color{
+    color: #2c87f0;
+}
+.menulink{
+    padding-left: 30px;
+}
+.submenulink{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
